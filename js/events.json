@@ -1,0 +1,57 @@
+events = [
+{
+  "name":"Capital Dragon Boat Regatta" ,
+  "img_url": "https://washington-org.s3.amazonaws.com/s3fs-public/capital_dragon_boat_regatta.jpg",
+  "datetime": "August 27, 2016 - All day",
+  "lat": "38.877463",
+  "long": "-77.022775",
+  "place": "Southwest Waterfront",
+  "address": "650 Water Street SW Washington, DC 20024",
+  "description": "The Capital Dragon Boat Regatta returns to the Washington DC Southwest Waterfront for its third year. The 2016 race is currently scheduled to be held on August 27th, 2016. The regatta aims to provide an excellent dragon boating experience to both athletes and spectators alike. This one day event will feature premier and festival racing in multiple race distances and is an excellent way to enjoy a summer day in Washington DC. Stop by and check out all the action! Better yet... get 20 friends together, form a team, and join the experience.",
+  "web_url": "http://www.capitaldragonboat.com/",
+},
+{
+  "name": "Final Weekend of Free for All: 'The Tempest'",
+  "img_url": "http://www.shakespearetheatre.org/Images/Event_Images/Tempest-FFA.jpg",
+  "datetime": "August 16 - August 28",
+  "lat": "38.8958239",
+  "long": "-77.0222554",
+  "place": "Shakespeare Theatre",
+  "address": "450 7th St NW, Washington, DC 20004",
+  "description": "In McSweeny’s glittering production, Prospero’s magical island explodes with life, hosting sprites, goddesses and fools that hold court and delight all ages. The Free For All production of The Tempest will feature STC Affiliated Artist and Broadway veteran Patrick Page as Prospero.",
+  "web_url": "http://www.shakespearetheatre.org/events/the-tempest-16-17-ffa/"
+},
+{
+  "name": "Icebergs",
+  "img_url": "http://images.adsttc.com/media/images/5783/bc1e/e58e/ce85/5000/000e/newsletter/ICEBERGS_Tim_Schenck_5.jpg?1468251136",
+  "datetime": "July 2 - September 5",
+  "lat": "38.8977516",
+  "long": "-77.01761879999998",
+  "place": "National Building Museum",
+  "address": "401 F St NW, Washington, DC 20001, USA",
+  "description": "ICEBERGS is built from re-usable construction materials, such as scaffolding and polycarbonate paneling, a material commonly used in building greenhouses. The 20' high "water line" allows panoramic views from high above the ocean surface and down below among the towering bergs. The tallest “bergy bit,” at 56', reaches to the third story balcony of the Museum. ICEBERGS occupies a total area of 12,540 square feet.",
+  "web_url": "https://washington.org/event/icebergs"
+},
+{
+  "name": "Art in the Garden at Tudor Place",
+  "img_url": "https://washington-org.s3.amazonaws.com/s3fs-public/tudor-place-washington-dc-2-photo-credit-dc-gardens.jpg",
+  "datetime": "August 3, 2-4 PM",
+  "lat": "38.911493",
+  "long": "-77.06290130000002",
+  "place": "Tudor Place",
+  "address": "1644 31st Street NW, Washington, DC 20007",
+  "description": "The Art in the Garden series lets aspiring artists ages 16 and over use Tudor Place’s historic gardens as inspiration, with professional botanical artist and horticulturist Kellie Cox as a guide. The August 3 edition will highlight the South Lawn, and Cox will be joined by artist-in-residence Peter Waddell. Landscapes and architecture will be the focus of this enlightening workshop.",
+  "web_url": "https://12200.blackbaudhosting.com/12200/Art-in-the-Garden-August"
+},
+{
+  "name": "Jimmie Durham: ‘Still Life with Spirit Xitle’",
+  "img_url": "https://washington.org/s3/files/styles/editorial_wide/public/jimmie-durham-still-life-with-spirit-and-xitle-2007.jpg?itok=uu-pFsuf",
+  "datetime": "On view beginning Aug. 6",
+  "lat": "38.8875678",
+  "long": "-77.0260902",
+  "place": "Hirshorn Museum",
+  "address": "700 Independence Ave SW, Washington, DC 20560",
+  "description": "Jimmie Durham’s Still Life with Spirit Xitle, which first debuted in Mexico City in 2007, is a reference to the eruption of the volcano Xitle 2,000 years ago, which destroyed the city of Cuicuilo. In a clash between the ancient and the modern, Durham used a crane to drop a nine-ton, red basalt boulder onto a 1992 Chrysler Spirit, and even painted a cartoon-like face on the boulder. Don’t miss this thought-provoking sculpture at one of DC’s most popular museums.",
+  "web_url": "http://hirshhorn.si.edu/collection/home/#collection=home"
+}
+]
