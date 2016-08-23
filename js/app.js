@@ -3,8 +3,8 @@
           sampleApp.controller('MapCtrl', function ($scope) {
 
               var mapOptions = {
-                  zoom: 4,
-                  center: new google.maps.LatLng(25,80),
+                  zoom: 12,
+                  center: new google.maps.LatLng(38.9072,-77.0369),
                   mapTypeId: google.maps.MapTypeId.TERRAIN
               }
 
@@ -19,12 +19,14 @@
                   var marker = new google.maps.Marker({
                       map: $scope.map,
                       position: new google.maps.LatLng(info.lat, info.lng),
-                      title: info.name
+                      title: info.name,
+                      picture: info.img_url
                   });
                   marker.content = '<div class="infoWindowContent">' + info.description + '</div>';
+                  marker.img_url = '<img class="maps_img" src="' + info.img_url + '">';
 
                   google.maps.event.addListener(marker, 'click', function(){
-                      infoWindow.setContent('<h2>' + marker.title + '</h2>' + marker.content);
+                      infoWindow.setContent('<h2>' + marker.title + '</h2>' + marker.img_url + marker.content);
                       infoWindow.open($scope.map, marker);
                   });
 
