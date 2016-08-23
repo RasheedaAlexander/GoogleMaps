@@ -3,9 +3,9 @@
           sampleApp.controller('MapCtrl', function ($scope) {
 
               var mapOptions = {
-                  zoom: 4,
-                  center: new google.maps.LatLng(25,80),
-                  mapTypeId: google.maps.MapTypeId.TERRAIN
+                  zoom: 12,
+                  center: new google.maps.LatLng(38.9072,-77.0369),
+                  mapTypeId: google.maps.MapTypeId.ROADMAP
               }
 
               $scope.map = new google.maps.Map(document.getElementById('map'), mapOptions);
