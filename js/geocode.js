@@ -9,3 +9,4 @@ window.getCoordinates = function(address, callback){
   })
 }
 //call function using window.getCoordinates('***ADDRESS***', function(coordinates){console.log(coordinates) })
+//done by nelley :)
